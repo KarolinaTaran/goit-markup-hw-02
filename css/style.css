@@ -82,6 +82,7 @@ h1 {
   color: var(--white, #fff);
   font-weight: 500;
   letter-spacing: 0.64px;
+  cursor: pointer;
 }
 .btn-order-service:hover {
   background: var(--ocean, #404bbf);
