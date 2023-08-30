@@ -132,3 +132,6 @@ a {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+.text-footer {
+  color: var(--cloud, #f4f4fd);
+}
