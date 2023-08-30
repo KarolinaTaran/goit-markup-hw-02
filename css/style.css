@@ -1,7 +1,6 @@
 body {
-  font-family: "Montserrat", sans-serif, "Roboto", sans-serif, "Raleway",
-    sans-serif;
-  font-family: "Roboto";
+  font-family: "Montserrat", sans-serif, "Roboto", "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
   line-height: 24px;
