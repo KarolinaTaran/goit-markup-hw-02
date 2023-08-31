@@ -25,8 +25,8 @@ a {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
 
-  font-family: Raleway;
 }
 
 .logo {
@@ -61,12 +61,17 @@ a {
   color: #404bbf
 }
 
+.address {
+  font-style: normal;
+}
+
 .address a {
   color: var(--slate, #434455);
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.32px;
   font-style: normal;
+
 }
 
 .address a:active {
